@@ -13,8 +13,17 @@
 #### Install the app
 `bundle install`
 
+#### Install all node packaches
+`yarn install --check-files` (if you don't have Yarn installed vitis https://yarnpkg.com/lang/en/docs/install/#mac-stable)
+
+#### Install forman
+`gem install foreman`
+
 #### Start the server
 `rails server`
 
+#### Run Foreman in another terminal (but from the same root)
+`foreman start -f Procfile.dev`
+
 #### Visist the site on you machine
-`localhost:3000`
+Visit `localhost:3000`
