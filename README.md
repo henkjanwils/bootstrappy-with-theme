@@ -5,6 +5,7 @@ Load the JS files through webpacker, instead of the hacky `<script src="/js/vend
 
 #### Make sure you have ruby version 2.6.5
 `rbenv install 2.6.5` # you might need to install rbenv first: https://github.com/rbenv/rbenv
+
 `rbenv local 2.6.5`
 
 #### Make sure Rails 6.0.0 is installed
