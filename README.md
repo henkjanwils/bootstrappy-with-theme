@@ -17,7 +17,7 @@ Load the JS files through webpacker, instead of the hacky `<script src="/js/vend
 `bundle install`
 
 #### Install all node packaches
-`yarn install --check-files` (if you don't have Yarn installed vitis https://yarnpkg.com/lang/en/docs/install/#mac-stable)
+`yarn install --check-files` (if you don't have Yarn installed visit https://yarnpkg.com/lang/en/docs/install/#mac-stable)
 
 #### Install forman
 `gem install foreman`
@@ -29,4 +29,7 @@ Load the JS files through webpacker, instead of the hacky `<script src="/js/vend
 `foreman start -f Procfile.dev`
 
 #### Visist the site on you machine
-Visit `localhost:3000`
+Visit `localhost:3000` and confirm that the theme should work
+
+# If you find the solution?
+Please push a Pull Request
