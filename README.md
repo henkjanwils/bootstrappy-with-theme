@@ -37,4 +37,4 @@ It's not working through the 'official' Webpacker way! (unfortunately is working
 Visit `localhost:3000` and confirm that the theme should work
 
 # If you find the solution?
-Please push a Pull Request
+Please push a Pull Request and earn a big beer! :beer:
