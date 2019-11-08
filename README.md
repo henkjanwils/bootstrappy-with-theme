@@ -1,3 +1,7 @@
+HELP! I'm trying to install this Bootstrap theme https://coderthemes.com/hyper/saas/index.html in mij Rails 6 app.
+
+It's not working!
+
 # Current challenge
 > Load the JS files through webpacker, instead of the hacky `<script src="/js/vendor.js"></script>` stuff in `applcation.html.erb`
 
