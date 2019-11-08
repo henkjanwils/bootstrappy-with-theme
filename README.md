@@ -3,7 +3,7 @@ HELP! I'm trying to install this Bootstrap theme https://coderthemes.com/hyper/s
 It's not working through the 'official' Webpacker way! (unfortunately is working in the ugly way, see next sentence)
 
 # Current challenge
-> Load the JS files through webpacker, instead of the current hacky way (`<script src="/js/vendor.js"></script>` etc.) in `application.html.erb`
+> Load the JS files through webpacker, instead of the current hacky way (e.g. `<script src="/js/vendor.js"></script>` starting at https://github.com/henkjanwils/bootstrappy-with-theme/blob/master/app/views/layouts/application.html.erb#L1484) in `application.html.erb`
 
 ### Installation instructions
 
