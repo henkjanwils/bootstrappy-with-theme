@@ -1,3 +1,6 @@
+# Current challenge
+Load the JS files through webpacker, instead of the hacky `<script src="/js/vendor.js"></script>` stuff in `applcation.html.erb`
+
 # Installation instructions
 
 #### Make sure you have ruby version 2.6.5
