@@ -1,24 +1,20 @@
-# README
+# Installation instructions
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+#### Make sure you have ruby version 2.6.5
+`rbenv install 2.6.5` # you might need to install rbenv first: https://github.com/rbenv/rbenv
+`rbenv local 2.6.5`
 
-Things you may want to cover:
+#### Make sure Rails 6.0.0 is installed
+`gem install rails -v 6.0.0`
 
-* Ruby version
+#### Clone this repo into your current folder
+`git clone git@github.com:henkjanwils/bootstrappy-with-theme.git .`
 
-* System dependencies
+#### Install the app
+`bundle install`
 
-* Configuration
+#### Start the server
+`rails server`
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+#### Visist the site on you machine
+`localhost:3000`
