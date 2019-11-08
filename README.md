@@ -1,4 +1,4 @@
-HELP! I'm trying to install this Bootstrap theme https://coderthemes.com/hyper/saas/index.html in mij Rails 6 app.
+HELP! I'm trying to install this Bootstrap theme https://coderthemes.com/hyper/saas/index.html in my Rails 6 app.
 
 It's not working!
 
