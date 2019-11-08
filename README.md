@@ -1,7 +1,7 @@
 # Current challenge
 > Load the JS files through webpacker, instead of the hacky `<script src="/js/vendor.js"></script>` stuff in `applcation.html.erb`
 
-# Installation instructions
+### Installation instructions
 
 #### Make sure you have ruby version 2.6.5
 `rbenv install 2.6.5` # you might need to install rbenv first: https://github.com/rbenv/rbenv
